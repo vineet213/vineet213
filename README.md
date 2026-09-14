@@ -107,12 +107,8 @@ Creative front-end project
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vineet213&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet213&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet213&theme=radical&hide_border=true" />
+<img height="165" src="https://readme-stats-vineet213.vercel.app/api?username=vineet213&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://readme-stats-vineet213.vercel.app/api/top-langs/?username=vineet213&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
