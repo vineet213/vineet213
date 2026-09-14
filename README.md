@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Vineet%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Exploring%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I%27m%20Vineet&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Exploring%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/vineet213?tab=repositories">
   <img src="https://img.shields.io/badge/Repos-12-blueviolet?style=for-the-badge" />
@@ -20,16 +20,26 @@ I build things across the stack — web apps, mobile apps, and I dabble in AI/ML
 
 **Web / Full-Stack**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,cpp&theme=dark" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 **AI / ML & Data**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-<img src="https://img.shields.io/badge/AI%20Orchestration-black?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Orchestration-000000?style=for-the-badge&logo=langchain&logoColor=white" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
@@ -100,7 +110,7 @@ Creative front-end project
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vineet213&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=vineet213&theme=radical&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
